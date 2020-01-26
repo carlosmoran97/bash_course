@@ -2,7 +2,6 @@
 # Programa para revisar la declaracion de variables
 
 opcion=0
-nombre=Carlos
 
-echo "Opcion: $opcion y nombre: $nombre"
+echo "Opcion: $opcion y nombre pasada del script anterior: $nombre"
 
